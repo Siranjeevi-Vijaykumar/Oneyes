@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6805146e.css",
+    "main.js": "/static/js/main.ecdc881a.js",
+    "static/js/651.41bbaf60.chunk.js": "/static/js/651.41bbaf60.chunk.js",
+    "static/media/Climate.jpg": "/static/media/Climate.c5e57b2a79a5d9e57690.jpg",
+    "static/media/aquarium-night-time.jpg": "/static/media/aquarium-night-time.fb6f5d809b8dd618fda9.jpg",
+    "static/media/ruins-sea.jpg": "/static/media/ruins-sea.303b449c7903844303b3.jpg",
+    "static/media/8951082.jpg": "/static/media/8951082.00185dcda7d466f8cd44.jpg",
+    "static/media/park.jpg": "/static/media/park.3ea7d42f1a048c6cec9d.jpg",
+    "static/media/Bio Conservation.jpg": "/static/media/Bio Conservation.00dd0bf2088ac8078df0.jpg",
+    "static/media/fising.jpg": "/static/media/fising.41f28638f272eff36d54.jpg",
+    "static/media/Climate Change Impact ocean.jpg": "/static/media/Climate Change Impact ocean.430d2e15d369ebb981f6.jpg",
+    "static/media/Internation collapse.jpg": "/static/media/Internation collapse.db67ed4167b9ff050cd0.jpg",
+    "static/media/Ocean Explaoration.jpg": "/static/media/Ocean Explaoration.c8884b33f945d2bd3aae.jpg",
+    "static/media/were.jpg": "/static/media/were.c8bd0d8a14d23c494a8d.jpg",
+    "static/media/logo_v2.svg": "/static/media/logo_v2.b6d1fe2731d639c635aa3c0417679b53.svg",
+    "static/media/OC-Logo-RGB-pos-150.webp": "/static/media/OC-Logo-RGB-pos-150.0d44a134fb3644ccd2cf.webp",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.6805146e.css.map": "/static/css/main.6805146e.css.map",
+    "main.ecdc881a.js.map": "/static/js/main.ecdc881a.js.map",
+    "651.41bbaf60.chunk.js.map": "/static/js/651.41bbaf60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6805146e.css",
+    "static/js/main.ecdc881a.js"
+  ]
+}

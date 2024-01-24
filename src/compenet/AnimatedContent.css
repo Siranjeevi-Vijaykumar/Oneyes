@@ -1,0 +1,35 @@
+.animated-content {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+  }
+  
+  .animated-text,
+  .animated-image {
+    opacity: 0;
+  }
+  
+  .animated-text {
+    animation: fadeInLeft 1s ease-out 0.5s forwards;
+  }
+  
+  .animated-image {
+    animation: fadeInRight 1s ease-out 0.5s forwards;
+  }
+  
+  @keyframes fadeInLeft {
+    to {
+      opacity: 1;
+      transform: translateX(0%);
+    }
+  }
+  
+  @keyframes fadeInRight {
+    to {
+      opacity: 1;
+      transform: translateX(0%);
+    }
+  }
+#erre{
+    text-align: justify;
+}  
